@@ -31,9 +31,9 @@ flutter:
     - assets/images/
 
   fonts:
-    - family: Poppins
+    - family: Exo
       fonts:
-        - asset: assets/fonts/Poppins-Bold.ttf
-        - asset: assets/fonts/Poppins-SemiBold.ttf
-        - asset: assets/fonts/Poppins-Medium.ttf
-        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Exo-Bold.ttf
+        - asset: assets/fonts/Exo-SemiBold.ttf
+        - asset: assets/fonts/Exo-Medium.ttf
+        - asset: assets/fonts/Exo-Regular.ttf
